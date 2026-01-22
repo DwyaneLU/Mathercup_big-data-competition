@@ -1,1 +1,2 @@
 # Mathercup_big-data-competition
+mathercup全国大数据竞赛研究生组原文及其对应实现代码
